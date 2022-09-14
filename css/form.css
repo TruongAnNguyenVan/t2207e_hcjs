@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+body{
+    background-color: #3AADA9;
+}
+#top{
+    background-color: #702C91;
+    height: 20%;
+    text-align: center;
+}
+#for{
+    width: 400px;
+    height: 600px;
+    background-color: #FFFFFF;
+    margin-top: 40px;
+    margin-right: 600px;
+    margin-left: 600px;
+}
+input{
+    background-color: #DFDFDF;
+    margin: 0px 0px 20px 0px;
+}
+i{
+    background-color: #702C91;
+
+}
+form{
+    margin-left: 30px;
+    margin-top: 40px;
+}
